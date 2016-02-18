@@ -18,6 +18,7 @@ class EventManager implements EventManagerInterface
         }
 
         $this->events[$eventType][] = $callback;
+
         return $this;
     }
 
