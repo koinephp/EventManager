@@ -10,6 +10,7 @@ trait EventManagerAwareTrait
     public function setEventManager(EventManagerInterface $eventManager)
     {
         $this->eventManager = $eventManager;
+
         return $this;
     }
 
@@ -18,6 +19,7 @@ trait EventManagerAwareTrait
         if ($this->eventManager === null) {
             $this->eventManager = new NullEventManager();
         }
+
         return $this->eventManager;
     }
 }
