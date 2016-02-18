@@ -2,6 +2,22 @@ Koine Event Manager
 -----------------
 
 Simple Event Manager
+Code information:
+
+[![Build Status](https://travis-ci.org/koinephp/EventManager.png?branch=master)](https://travis-ci.org/koinephp/EventManager)
+[![Coverage Status](https://coveralls.io/repos/koinephp/EventManager/badge.png?branch=master)](https://coveralls.io/r/koinephp/EventManager?branch=master)
+[![Code Coverage Scrutinizer](https://scrutinizer-ci.com/g/koinephp/EventManager/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/koinephp/EventManager/?branch=master)
+[![Code Climate](https://codeclimate.com/github/koinephp/EventManager.png)](https://codeclimate.com/github/koinephp/EventManager)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/koinephp/EventManager/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/koinephp/EventManager/?branch=master)
+[![StyleCI](https://styleci.io/repos/52007964/shield)](https://styleci.io/repos/52007964)
+
+Package information:
+
+[![Latest Stable Version](https://poser.pugx.org/koine/event-manager/v/stable.svg)](https://packagist.org/packages/koine/event-manager)
+[![Total Downloads](https://poser.pugx.org/koine/event-manager/downloads.svg)](https://packagist.org/packages/koine/event-manager)
+[![Latest Unstable Version](https://poser.pugx.org/koine/event-manager/v/unstable.svg)](https://packagist.org/packages/koine/event-manager)
+[![License](https://poser.pugx.org/koine/event-manager/license.svg)](https://packagist.org/packages/koine/event-manager)
+[![Dependency Status](https://gemnasium.com/koine/event-manager.png)](https://gemnasium.com/koine/event-manager)
 
 ## Usage
 
