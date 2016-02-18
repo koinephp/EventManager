@@ -1,0 +1,24 @@
+{
+    "name": "koine/event-manager",
+    "description": "Simple Event Manager",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marcelo Jacobus",
+            "email": "marcelo.jacobus@gmail.com"
+        }
+    ],
+    "require": {
+        "php" : ">=5.4"
+    },
+    "require-dev": {
+        "koine/db-test-case": "*",
+        "phpunit/phpunit": "*",
+        "satooshi/php-coveralls": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Koine\\EventManager\\": "src/"
+        }
+    }
+}
